@@ -174,7 +174,7 @@ export const menuData: MenuCategory[] = [
     icon: '🧀',
     description: 'Generous fries loaded with cheese, meats, and signature sauces.',
     teaserText: 'Fries loaded with cheese, meat & sauce',
-    teaserImage: 'public/images/loaded_fries.jpeg',
+    teaserImage: 'https://www.vecteezy.com/photo/51968640-delicious-loaded-fries-topped-with-bacon-and-chives-in-a-rustic-basket-on-a-wooden-table',
     accent: 'from-orange-400 to-red-500',
     items: [
       { id: 'lf1', name: 'Cheesy Bacon Loaded Fries', description: 'Fries smothered in nacho cheese, crispy bacon, and sour cream.', price: 38, image: 'https://static.vecteezy.com/system/resources/previews/069/756/897/non_2x/loaded-fries-topped-with-bacon-cheese-jalapenos-and-ranch-dressing-create-delicious-treat-free-photo.jpg', tag: 'Fan Favorite' },
